@@ -38,7 +38,7 @@ An interactive TUI shows your project tree. Select 2–3 folders in under 10 sec
 
 ```
 Only look at these folders:
-  •src/payments/
+  • src/payments/
   • src/core/database/
   • src/orders/processor/
 
