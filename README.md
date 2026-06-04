@@ -38,8 +38,10 @@ An interactive TUI shows your project tree. Select 2–3 folders in under 10 sec
 
 ```
 Only look at these folders:
-  • lib/features/routines/player/
-  • lib/core/services/
+  •src/payments/
+  • src/core/database/
+  • src/orders/processor/
+
 
 If you find references to code OUTSIDE this scope that are relevant
 to the bug, let me know before expanding.
