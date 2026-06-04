@@ -1,8 +1,22 @@
-# ScopeKit
+<p align="center">
+  <img src="docs/logo.svg" alt="ScopeKit" width="380">
+</p>
 
-🌐 **[scopekit.dev → john24alex.github.io/scopekit](https://john24alex.github.io/scopekit)**
+<p align="center">
+  <strong>Stop paying for AI to read your entire codebase. Show it exactly where the bug is.</strong>
+</p>
 
-**Stop paying for AI to read your entire codebase. Show it exactly where the bug is.**
+<p align="center">
+  <a href="https://john24alex.github.io/scopekit">🌐 Website</a> ·
+  <a href="https://pypi.org/project/scopekit">📦 PyPI</a> ·
+  <a href="https://github.com/john24alex/scopekit/issues">🐛 Issues</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/scopekit?color=58a6ff&label=pypi" alt="PyPI">
+  <img src="https://img.shields.io/pypi/pyversions/scopekit?color=3fb950" alt="Python">
+  <img src="https://img.shields.io/github/license/john24alex/scopekit?color=8b949e" alt="License">
+</p>
 
 Most token-saving tools (Graphify, etc.) build knowledge graphs with LLM API calls and vector databases. ScopeKit takes the opposite approach — **zero tokens, zero APIs, zero complexity.** Just a folder tree built from the filesystem and a focused prompt.
 
