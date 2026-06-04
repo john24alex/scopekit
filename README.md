@@ -40,8 +40,13 @@ Claude (or Cursor, or Copilot) reads only what matters. The bug gets fixed faste
 ## Install
 
 ```bash
+# macOS (recommended)
+pipx install scopekit
+
+# or with pip
 pip install scopekit
-# or
+
+# or with uv
 uv tool install scopekit
 ```
 
