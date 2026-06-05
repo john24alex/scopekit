@@ -8,6 +8,7 @@ version = "0.1.0"
 description = "Stop paying for AI to read your entire codebase. Scope the folders before the session starts."
 readme = "README.md"
 license = { file = "LICENSE" }
+authors = [{ name = "John", email = "john24alex@gmail.com" }]
 requires-python = ">=3.10"
 dependencies = ["questionary>=2.0.0"]
 keywords = ["claude", "ai", "developer-tools", "tokens", "debugging", "cli", "tui"]
